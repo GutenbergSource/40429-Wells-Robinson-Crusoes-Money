@@ -1,0 +1,9 @@
+
+.boxed
+{
+    width: 80%;
+    padding: 1em;
+    margin-left: 2em;
+    margin-right: 2em;
+    border: 2px solid black;
+}
